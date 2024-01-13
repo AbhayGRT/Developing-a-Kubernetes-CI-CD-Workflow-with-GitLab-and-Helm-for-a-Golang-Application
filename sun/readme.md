@@ -12,6 +12,8 @@ This is a simple command-line application written in Go that fetches weather for
 
     ```bash
     git clone https://github.com/AbhayGRT/Developing-a-Kubernetes-CI-CD-Workflow-with-GitLab-and-Helm-for-a-Golang-Application.git
+    # if you want to rename your folder name simply use this command
+    sudo mv your-repo Developing-a-Kubernetes-CI-CD-Workflow-with-GitLab-and-Helm-for-a-Golang-Application
     cd your-repo
     ```
 
