@@ -1,6 +1,6 @@
 # Weather Forecast CLI Application
 
-![screenshot](./Screenshot from 2024-01-14 08-54-12.png)
+![screenshot](./sun/Screenshot from 2024-01-14 08-54-12.png)
 
 This is a simple command-line application written in Go that fetches weather forecast information using the WeatherAPI.
 
